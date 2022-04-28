@@ -1,2 +1,10 @@
-# dex
-Moralis Ethereum Smart Contract Development 201 - Dex project - in progress
+work in progress
+
+Practice
+
+- intro to solidity
+- checks, effects, interactions
+- @openzeppelin
+- hardhat
+- chai
+- BDD
